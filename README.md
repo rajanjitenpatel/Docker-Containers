@@ -77,7 +77,7 @@ Experiment with docker container.
           sum = 120000
           Time elpased is 0.000076 seconds for 128bit vectorize sum
           2.671053 X time faster.
-      ```
+          ```
     h. To check code 
       ```
       root@d395406b695e:/# nano sum.c
@@ -91,7 +91,10 @@ Experiment with docker container.
           #include <stdlib.h>
           .....
           .....
-          ```  
-      
+          ```
+
+
+
+-- END --
       
       
