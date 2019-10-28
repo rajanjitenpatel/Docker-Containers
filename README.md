@@ -2,7 +2,7 @@
 Experiment with docker container.
 
 
-1. Go to: A Ubuntu Playground with Docker Install - [link](https://www.katacoda.com/courses/ubuntu/playground)
+1. Go to: A Ubuntu Playground with Docker Install - [link](https://www.katacoda.com/courses/ubuntu/playground){:target="_blank"}
 
 2. Run following command
 
