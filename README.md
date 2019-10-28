@@ -57,7 +57,7 @@ Experiment with docker container.
       $ docker run -i -t rjprime/rjprime-simd /bin/bash
       ```
           ```
-          82cc175243961fb6495b0ac6e2f705ec82adb67c7493d64...
+          root@d395406b695e:/#
           ```
     f. List file & Dir. ( sum.c & a.out should be present.) 
       ```
