@@ -4,12 +4,11 @@ Experiment with docker container.
 
 #### OpenMP-Container  
 
+#### Option to run container
 
-#### Option to run container:
+- (Recommended) Online Ubuntu Playground with Docker Installed - [link](https://www.katacoda.com/courses/ubuntu/playground) (Open in new tab)
 
-Online Ubuntu Playground with Docker Installed - [link](https://www.katacoda.com/courses/ubuntu/playground) (Open in new tab)
+    OR
     
-OR
-    
-Install Docker on PC - [link](https://docs.docker.com/v17.09/engine/installation/#supported-platforms)
+- Install Docker on PC - [link](https://docs.docker.com/v17.09/engine/installation/#supported-platforms).
         
