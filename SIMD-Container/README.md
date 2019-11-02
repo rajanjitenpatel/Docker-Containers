@@ -2,7 +2,14 @@
 Experiment with docker container.
 
 
-1. Go to: A Ubuntu Playground with Docker Installed - [link](https://www.katacoda.com/courses/ubuntu/playground) (Open in new tab)
+
+1. Run Docker: 
+
+    - (Recommended) Online Ubuntu Playground with Docker Installed - [link](https://www.katacoda.com/courses/ubuntu/playground) (Open in new tab)
+
+        OR
+
+    - Install Docker on PC - [link](https://docs.docker.com/v17.09/engine/installation/#supported-platforms).
 
 2. Run following commands.
 
