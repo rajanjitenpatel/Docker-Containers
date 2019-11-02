@@ -1,6 +1,6 @@
 # OpenMP-Container
 
-1. Run Docker: 
+1. Docker Platform: 
 
     - (Recommended) Online Ubuntu Playground with Docker Installed - [link](https://www.katacoda.com/courses/ubuntu/playground) (Open in new tab)
 
