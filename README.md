@@ -5,19 +5,11 @@ Experiment with docker container.
 #### OpenMP-Container  
 
 
-Option to run container:
+#### Option to run container:
 
-    - Online Ubuntu Playground with Docker Installed - [link](https://www.katacoda.com/courses/ubuntu/playground) (Open in new tab)
+Online Ubuntu Playground with Docker Installed - [link](https://www.katacoda.com/courses/ubuntu/playground) (Open in new tab)
     
-    OR
+OR
     
-    - Install Docker on PC 
-    
-        - For Mac
-        Download the Docker installer here.
-        Mount ‘Docker.dmg’
-        Copy Docker.app to your Application directory
-        Double click Docker.app and wait for Docker to finish starting up
-        Open terminal and run the docker hello-world image
-        ```docker run hello-world```
+Install Docker on PC - [link](https://docs.docker.com/v17.09/engine/installation/#supported-platforms)
         
