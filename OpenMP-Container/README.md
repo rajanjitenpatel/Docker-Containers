@@ -69,7 +69,7 @@
           "a.out"  boot  etc   lib    media  "openmp_sample.c"  proc  run   srv  tmp  var
           bin    dev   home  lib64  mnt    opt              root  sbin  sys  usr
           ```
-    g. Run executable file.
+    g. compile code.
       ```
       root@d395406b695e:/# gcc -fopenmp openmp_sample.c
       ```
