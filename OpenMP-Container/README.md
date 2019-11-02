@@ -71,6 +71,13 @@
           ```
     g. Run executable file.
       ```
+      root@d395406b695e:/# gcc -fopenmp openmp_sample.c
+      ```
+          ```
+          _
+          ```
+    h. Run executable file.
+      ```
       root@d395406b695e:/# ./a.out
       ```
           ```
@@ -78,7 +85,7 @@
           Number of threads = 2
           Welcome to GFG from thread = 1
           ```
-    h. To check code 
+    i. To check code 
       ```
       root@d395406b695e:/# nano openmp_sample.c
       ```
